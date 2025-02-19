@@ -1,0 +1,1 @@
+game.Players.leafbuds:Kick()
