@@ -1,1 +1,1 @@
-game.Players.leafbuds:Kick()
+game.Players.Scowths.DataFolder.Information.MaxStreak.Value = 500
