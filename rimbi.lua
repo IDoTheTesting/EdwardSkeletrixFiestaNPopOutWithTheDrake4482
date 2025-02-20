@@ -1,1 +1,1 @@
-game.Players.Scowths.DataFolder.Information.MaxStreak.Value = 500
+for _, v in ipairs(game:GetService("Players").Scowths:GetDescendants()) do if (v:IsA("NumberValue") or v:IsA("IntValue")) and (v.Name:find("Streak") or v.Name == "KillsValue") then v.Value = 100000 end end
